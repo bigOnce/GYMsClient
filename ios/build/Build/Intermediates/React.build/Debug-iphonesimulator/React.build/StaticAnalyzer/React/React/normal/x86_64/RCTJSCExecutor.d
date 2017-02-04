@@ -1,0 +1,24 @@
+dependencies: \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTDefines.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Data/Project/bigOnce/clients/GYMsClient/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Data/Project/bigOnce/clients/GYMsClient/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Data/Project/bigOnce/clients/GYMsClient/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTAssert.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTBridge.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTLog.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Data/Project/bigOnce/clients/GYMsClient/node_modules/react-native/React/Base/RCTUtils.h
